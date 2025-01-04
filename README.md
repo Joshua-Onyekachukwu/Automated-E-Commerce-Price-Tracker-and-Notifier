@@ -1,1 +1,3 @@
-# Automated-E-Commerce-Price-Tracker-and-Notifier
+# Automated Price Tracker
+
+Project documentation.

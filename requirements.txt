@@ -1,0 +1,6 @@
+selenium
+schedule
+plyer
+beautifulsoup4
+pandas
+matplotlib
